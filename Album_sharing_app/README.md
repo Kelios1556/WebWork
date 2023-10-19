@@ -16,47 +16,47 @@ We are required to develop a web-based **Album sharing app** using **NodeJS/Expr
 
 * Upon loading, the sketch of the page is shown in <u>Fig. 1</u>: 
 
-<center><img src="./readme_pic/Picture1.png" alt="fig1" /></center>
+<div align="center"><img src="./readme_pic/Picture1.png" alt="fig1" /></div>
 
-<center><b>Fig. 1</b></center>
+<div align="center"><b>Fig. 1</b></div>
 
 * After a user has logged in, the sketch of the page is in <u>Fig. 2</u>. A list of friend albums is shown in the left division. 
 
-<center><img src="./readme_pic/Picture2.png" alt="fig2" /></center>
+<div align="center"><img src="./readme_pic/Picture2.png" alt="fig2" /></div>
 
-<center><b>Fig. 2</b></center>
+<div align="center"><b>Fig. 2</b></div>
 
 * After clicking “My Album”, the sketch of the page is in <u>Fig. 3</u>. The photos/videos in the user’s own albums are displayed in the right division, together with messages of who liked a photo/video. If there are more than one page of photos/videos, the user can click “<previous” or “next>” to go to the previous or next page of photos/videos in this album. 
 
-  <center><img src="./readme_pic/Picture3.png" alt="fig3" /></center>
+  <div align="center"><img src="./readme_pic/Picture3.png" alt="fig3" /></div>
 
-  <center><b>Fig. 3</b></center>
+  <div align="center"><b>Fig. 3</b></div>
   
   Each photo/video is clickable. After clicking a photo/video, the photo/video will be enlarged as in <u>Fig. 4a</u> and <u>Fig. 4b</u>, together with the “liked” message . When the cross X is clicked, the page returns to the view as shown in <u>Fig. 3</u> (the page before the photo/video is clicked). 
 
-<center><img src="./readme_pic/Picture4a.png" alt="fig4a" /></center>
+<div align="center"><img src="./readme_pic/Picture4a.png" alt="fig4a" /></div>
 
-<center><b>Fig. 4a</b></center>
+<div align="center"><b>Fig. 4a</b></div>
 
-<center><img src="./readme_pic/Picture4b.png" alt="fig4b"  /></center>
+<div align="center"><img src="./readme_pic/Picture4b.png" alt="fig4b"  /></div>
 
-<center><b>Fig. 4b</b></center
+<div align="center"><b>Fig. 4b</b></div
 
 * When a friend’s album is selected in the left-hand list, the page view becomes one in <u>Fig. 5</u>. Photos/videos of the friend are shown in the right division, together with messages of who liked a photo/video and the like buttons. (“<previous” and “next>” are not shown if an album has less than one page of photos/videos, and shown, otherwise.) 
 
-  <center><img src="./readme_pic/Picture5.png" alt="fig5" /></center>
+  <div align="center"><img src="./readme_pic/Picture5.png" alt="fig5" /></div>
 
-  <center><b>Fig. 5</b></center>
+  <div align="center"><b>Fig. 5</b></div>
   
   Similarly, when a photo/video is clicked, the photo/video will be enlarged as in <u>Fig. 6a</u> and <u>Fig. 6b</u>, together with the “liked” message and the like button. When the cross is clicked, the page returns to the view shown in <u>Fig. 5</u> (the page before the photo/video is clicked). 
 
-<center><img src="./readme_pic/Picture6a.png" alt="fig6a" /></center>
+<div align="center"><img src="./readme_pic/Picture6a.png" alt="fig6a" /></div>
 
-<center><b>Fig. 6a</b></center>
+<div align="center"><b>Fig. 6a</b></div>
 
-<center><img src="./readme_pic/Picture6b.png" alt="fig6b" /></center>
+<div align="center"><img src="./readme_pic/Picture6b.png" alt="fig6b" /></div>
 
-<center><b>Fig. 6b</b></center>
+<div align="center"><b>Fig. 6b</b></div>
 
 # Structure
 
