@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="stylesheets/style.css">
+        <script src="javascripts/script.js"></script>
+        <title>
+            Albums
+        </title>
+    </head>
+    <body onload="init()">
+        <h1>Albums</h1>
+        <div id="toLoginIn">
+            username <input type="text" id="userName" name="userName">
+            password <input type="password" id="userPassword" name="userPassword">
+            <input type="submit" value="log in" onclick="login();">
+        </div>
+        <div id="loginMessage">
+            <div id="loginMessageContent" class = "nobr"></div>
+            <button onclick="logout()">log out</button>
+        </div>
+        <div id="albumList">
+            
+        </div>
+        <div id="mediaGallary">
+            
+        </div>
+    </body>
+</html>
